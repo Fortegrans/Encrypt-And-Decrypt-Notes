@@ -1,2 +1,2 @@
-Notlarınızı şifreleyebildiğiniz(Encrypt) okunabilir düz metni yetkisiz kişilerden korumak için karmaşık ve okunamaz şifreli bir metne dönüştürür
+Notlarınızı şifreleyebildiğiniz(Encrypt) okunabilir düz metni yetkisiz kişilerden korumak için karmaşık ve okunamaz şifreli bir metne dönüştürür ve
 şifrelediğiniz (Decrypt) notu doğru anahtar kullanarak tekrar okunabilir hale getirir.
